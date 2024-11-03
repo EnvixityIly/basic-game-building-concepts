@@ -1,0 +1,1 @@
+ screen.blit(text, (250 - text.get_width() // 2, 140 - text.get_height() // 2))
